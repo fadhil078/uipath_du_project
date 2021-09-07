@@ -673,7 +673,7 @@
       "Fields": [
         {
           "FieldId": "Semi-StructuredDocuments.Financial.purchase-order.po-id",
-          "FieldName": "po-id",
+          "FieldName": "po-number",
           "IsMultiValue": false,
           "Type": "Text",
           "DeriveFieldsFormat": "",
@@ -732,36 +732,6 @@
           ]
         },
         {
-          "FieldId": "Semi-StructuredDocuments.Financial.purchase-order.vendor-phone-number",
-          "FieldName": "vendor-phone-number",
-          "IsMultiValue": false,
-          "Type": "Number",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "RequiresReference",
-              "Value": "true"
-            }
-          ]
-        },
-        {
-          "FieldId": "Semi-StructuredDocuments.Financial.purchase-order.vendor-email",
-          "FieldName": "vendor-email",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "RequiresReference",
-              "Value": "true"
-            }
-          ]
-        },
-        {
           "FieldId": "Semi-StructuredDocuments.Financial.purchase-order.shipping-name",
           "FieldName": "shipping-name",
           "IsMultiValue": false,
@@ -781,36 +751,6 @@
           "FieldName": "shipping-address",
           "IsMultiValue": false,
           "Type": "Address",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "RequiresReference",
-              "Value": "true"
-            }
-          ]
-        },
-        {
-          "FieldId": "Semi-StructuredDocuments.Financial.purchase-order.shipping-phone-number",
-          "FieldName": "shipping-phone-number",
-          "IsMultiValue": false,
-          "Type": "Number",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "RequiresReference",
-              "Value": "true"
-            }
-          ]
-        },
-        {
-          "FieldId": "Semi-StructuredDocuments.Financial.purchase-order.shipping-email",
-          "FieldName": "shipping-email",
-          "IsMultiValue": false,
-          "Type": "Text",
           "DeriveFieldsFormat": "",
           "Components": [],
           "SetValues": [],

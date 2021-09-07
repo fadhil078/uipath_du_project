@@ -1,0 +1,133 @@
+mentmcation Numner arm certmcation
+
+requester. Do not
+
+(Rev. October 2018)
+
+Department of the Treasury
+
+send to the IRS.
+
+Internal Revenue Service
+
+IP- Go to www.irs.goviFonnW9 for instructions and the latest information.
+
+_ 1 Name (as shown on your income tax return).
+Name i5 required on this line; do not leave this line blank.
+aLKE tje
+
+2 Business narriaidisregarded entity name, if different from above
+
+t-&
+
+3 Check appropriate box for federal tax classification of the person whose name is entered on 'following seven boxes.
+
+Check only one of the 4 Exemptions i(codes apply only to certain entities, not Individuals; see instructions on page 3):
+
+☐ Individual/sole proprietor or C Corporation ☐ S Corporation ☐ Partnership ☐ Trust/estate
+
+single-member LLC
+
+☐ Limited liability company.
+Enter the tax classification (C=C corporation, S=S corporation, P=Partnership).10.
+
+Exempt payee code (rf any
+
+Note: Check the appropriate box in the line above for the tax classification of the single-member owner.
+Do not check Exemption from FATCA reporting LLC It the LLC is classified as a single-member LLC that is disregarded from the owner unless the owner of the LLC is code if any) another LLC that is not disregarded from the owner for U.S. federal tax purposes.
+Otherwise, a sgle-rnember LLC that is disregarded from the owner should check the appropriate box for the tax classification of its owner.
+
+n Oth ( itti)1111, er see nsrucons
+
+5 Address (number, street, and apt. or sLoite no) See instructions.
+
+ILiteoJT !kr 1).QQz.
+
+6 City, state, and ZIP code
+
+6C111-Pgrli
+
+7 List account number(s) here (optional)
+
+Aspiies account$ mturflaired arrbiEle the U.S.." -
+
+Requester's name and address (optional}
+
+Enter your T1N in the appropriate box.
+The TIN provided must match the name given on tine backup withholding.
+For individuals, this is generally your social security number (SSN).
+However, for a resident aliens sole proprietor, or disregarded entity, see the instructions for Part I, later.
+For other entities, it is your employer identification number (EN).
+If you do not have a number, see How to get a TIN! later.
+
+Note: If the account is in more than one name, see the instructions for line 1.
+Also see What Name and Number To Give the Requester for guidelines on whose number to enter.
+
+or Employer identification number
+
+Under penalties of perjury, I certify that:
+
+1. The number shown on this fom-i is my correct taxpayer identification number (or I am waiting for a number to be issued to me); and 2,1 am not subject to backup withholding because: (a) I am exempt from backup withholding, or (b) I have not been notified by the Internal Revenue Service (IRS) that I am subject to backup withholding as a result of a failure to report all interest or dividends, or (c) the IRS has notified me that I am no longer subject to backup withholding; and
+
+3, am a U.S. citizen or other U.S. person (defined below); and
+
+4. The FATCA code(s) entered on this form (if any) indicating that I am exempt from FATCA reporting is correct.
+
+Certi-fication instructions. You must cross out item 2 above if you have been notified by the IRS that you are currently subject to backup withholding because you have failed to report all interest and dividends on your tax return.
+For real estate transactions, item 2 does not apply.
+For mortgage interest paid, acquisftion or abandonment of secured property, cancellation of debt, contributions to an individual retirement arrangement (IRA), and generally, payments other than interest and dividends. you are not required to sign the certification, but you must provide your correct TM. See the instructions for Part II, later.
+
+sign Signature of
+
+/
+
+Here US.
+
+Date.
+
+person
+
+Gl Itti enera nsrucons
+
+* Form 1N9DIV (dividend& including those from stocks or mutual -
+
+funds)
+
+Section references are to the Internal Revenue Code unless otherwise F 1099MISC (i t f i, i, d, or gross
+
+* orm - varous ypes oncome przes awars
+
+noted.
+
+Future developments. For the latest information about developments related to Form W-9 and its instructions, such as legislation enacted after they were published, go to www.irs.govirFormW9.
+
+Purpose of Form
+
+An individual or entity (Form W-9 requester) who is required to file an information return with the IRS must obtain your correct taxpayer identification number (TIN) which may be your social security number (SSN), individual taxpayer identification number (ITIN), adoption taxpayer identification number (ATIN), or employer identification number (EIN), to report on an information return the amount paid to you, or other amount reportable on an information return.
+Examples of information returns include, but are not limited to, the following.
+
+* Form 1099-INT (interest earned or paid)
+
+Cat No. 10231X
+
+d) procees
+
+* Form 1099-13 (stock or mutual fund sales and certain other tti b bk) ransacons y roers
+
+* Form 1099-S (proceeds from real estate transactions)
+
+* Form 1099-K (merchant card and third party network transactions)
+
+* Form 1098 (home mortgage interest), 11:398-E (student loan interest), 1098-T (tuition)
+
+* F011111099,-C (canceled debt)
+
+* Form 1099-A (acqution or abandonment of secured property)
+
+Use Form W-9 only if you are a U.S. person (including a resident alien), to provide your correct TIN.
+
+If you do not return Form W-9 to the requester with a TIN, you might be subject to backup withholding.
+See What is backup withhoiding,
+
+later. Form W-9 (Rev.
+10-2018)
